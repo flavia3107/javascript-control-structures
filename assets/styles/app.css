@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background: #2c2c2c;
+  background: #f9f9f9;
 }
 
 h2 {
@@ -54,8 +54,10 @@ button:focus {
 
 button:hover,
 button:active {
-  background: #a927f5;
-  border-color: #a927f5;
+  background: #ffffff;
+  color: #ff0062;
+  font-weight: bold;
+  letter-spacing: 1px;
 }
 
 #health-levels,
@@ -83,4 +85,56 @@ button:active {
   border-radius: 10px;
   text-align: center;
   margin: 0 0.5rem;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo > img {
+  height: 35px;
+}
+
+.logo-txt {
+  padding-left: 7px;
+  display: flex;
+  flex-direction: column;
+  color: #2e2e2e;
+  align-items: flex-start;
+}
+
+.logo-img {
+  width: 2rem;
+  margin-right: 3px;
+}
+
+.logo-txt h1,
+.logo-txt span {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  letter-spacing: 4px;
+  color: #2e2e2e;
+}
+
+.logo-txt h1 {
+  font-weight: bolder;
+  font-size: 1.1rem;
+  margin-top: 2px;
+}
+
+.logo-txt span {
+  font-weight: lighter;
+  font-size: 0.85rem;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+}
+
+a {
+  text-decoration: none;
 }
