@@ -1,6 +1,6 @@
 # JavaScript Control Structures
 
-This project is part of the **JavaScript Course – Mini Projects** collection.  
+This project is part of the **JavaScript - The Complete Guide 2025 (Beginner + Advanced)** collection.  
 It focuses on mastering JavaScript control structures such as conditionals, loops, and switch statements.
 
 ## 📌 Features
