@@ -15,7 +15,7 @@ It focuses on mastering JavaScript control structures such as conditionals, loop
 - **Tools**: VS Code, Git, GitHub
 
 ## 🚀 Live Demo
-[https://flavia3107.github.io/javascript-control-structures/]
+[Demo](https://flavia3107.github.io/javascript-control-structures/)
 
 ## 📚 Learning Goals
 - Understand and apply different JavaScript control flow statements
